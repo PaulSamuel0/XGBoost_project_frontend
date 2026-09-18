@@ -1,5 +1,5 @@
-streamlit>=1.40.0
-request>=2.32.3
+streamlit>=3.5
+requests>=2.34.2
 python-dotenv>=1.2.2
 
 
